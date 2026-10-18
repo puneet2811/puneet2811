@@ -11,7 +11,7 @@
 
 I'm Puneet Singh, a data science student who likes turning messy data into clear answers. I enjoy breaking a problem into smaller parts, testing different approaches, and explaining what the numbers actually say. I'm building my portfolio one end-to-end project at a time.
 
-**Education:** B.Tech / degree in YOUR-FIELD, YOUR-COLLEGE
+**Education:** B.Tech / CSE-DS, Noida Institute of Engineering and Technology
 
 ## Selected project
 
